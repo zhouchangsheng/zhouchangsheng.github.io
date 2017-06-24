@@ -1,0 +1,16 @@
+[
+  {
+    "id":"frontendPC",
+    "name":"前端（PC)",
+    "url":"",
+    "child":[
+      {
+        "id":"clipImage",
+        "name":"裁剪图片",
+        "poster":"/service/static/images/clip-image.svg",
+        "description":"你可以使用这个插件，按照在配置对象中定义的尺寸在不失真情况下进行图片裁切。",
+        "version":"/service/lang/zh-CN/api/frontendPC/clipImage/version.json"
+      }
+    ]
+  }
+]

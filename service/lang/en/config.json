@@ -1,0 +1,46 @@
+{
+  "id":"en",
+  "name":"english",
+  "flag":"/service/static/images/country-flag/us.svg",
+  "site":{
+    "logoTitle":"CS_Plugins",
+    "_404":{
+      "id":"404",
+      "name":"Not Found",
+      "content":"/service/lang/en/api/404.md"
+    },
+    "home":{
+      "id":"home",
+      "name":"home",
+      "content":"/service/lang/en/api/home.md"
+    },
+    "content":{
+      "id":"content",
+      "name":"name",
+      "version":"version",
+      "content":"/service/lang/en/api/sidenav.json",
+      "versionNotFoundTip":{
+        "content":"*.md file of version selected not found "
+      }
+    },
+    "author":{
+      "id":"author",
+      "title":"author",
+      "name":"jerry_zhou",
+      "email":"jerry_zhou688@163.com",
+      "power":"powered by",
+      "content":"/service/lang/en/api/author.md"
+    }
+  },
+  "country":[
+    {
+      "id":"zh-CN",
+      "name":"chinese simplified",
+      "flag":"/service/static/images/country-flag/cn.svg"
+    },{
+      "id":"zh-TR",
+      "name":"chinese traditional",
+      "flag":"/service/static/images/country-flag/cn.svg"
+    }
+  ]
+}

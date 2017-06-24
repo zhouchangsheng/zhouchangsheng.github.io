@@ -1,0 +1,46 @@
+{
+  "id":"zh-TR",
+  "name":"中文繁體",
+  "flag":"/service/static/images/country-flag/cn.svg",
+  "site":{
+    "logoTitle":"CS插件庫",
+    "_404":{
+      "id":"404",
+      "name":"請求內容不存在(Not Found)",
+      "content":"/service/lang/zh-TR/api/404.md"
+    },
+    "home":{
+      "id":"home",
+      "name":"首頁",
+      "content":"/service/lang/zh-TR/api/home.md"
+    },
+    "content":{
+      "id":"content",
+      "name":"名稱",
+      "version":"版本",
+      "content":"/service/lang/zh-TR/api/sidenav.json",
+      "versionNotFoundTip":{
+        "content":"不存在您選擇的版本文件"
+      }
+    },
+    "author":{
+      "id":"author",
+      "title":"作者",
+      "name":"jerry_zhou",
+      "email":"jerry_zhou688@163.com",
+      "power":"版權所有",
+      "content":"/service/lang/zh-TR/api/author.md"
+    }
+  },
+  "country":[
+    {
+      "id":"zh-CN",
+      "name":"中文簡體",
+      "flag":"/service/static/images/country-flag/cn.svg"
+    },{
+      "id":"en",
+      "name":"英語",
+      "flag":"/service/static/images/country-flag/us.svg"
+    }
+  ]
+}

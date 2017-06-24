@@ -1,0 +1,22 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g style="vector-effect: non-scaling-stroke;" stroke="null" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect stroke="null" fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <rect stroke="#fff" rx="3" opacity="0.85" id="svg_4" height="409.999993" width="584.000026" y="-2.499997" x="-2.500015" stroke-width="2" fill="#dfdfdf"/>
+  <defs style="vector-effect: non-scaling-stroke;" stroke="null">
+   <style style="vector-effect: non-scaling-stroke;" stroke="null" type="text/css"/>
+  </defs>
+  <g stroke="null" style="vector-effect: non-scaling-stroke;" id="svg_12">
+   <path stroke="null" style="vector-effect: non-scaling-stroke;" id="svg_10" fill="#515151" d="m393.995157,293.278653l0,-199.115894l-195.26471,-0.157483l0,-53.187374l-12.725927,0l0,53.177194l-55.174846,-0.044541l-0.010181,12.725927l55.185027,0.044541l0,199.116212l195.26471,0.157483l0,53.187374l12.725927,0l0,-53.177512l55.174846,0.044541l0.010499,-12.725927l-55.185345,-0.044541zm-12.725927,-0.010181l-182.538783,-0.147303l0,-186.390285l182.538783,0.147303l0,186.390285z"/>
+   <path stroke="null" style="vector-effect: non-scaling-stroke;" id="svg_11" fill="#515151" d="m367.322251,280.912552l0.011453,0l0,-12.733562l0,-149.036509l-154.612374,0l0,149.036509l0,12.733562l0.012408,0l154.588512,0zm-120.69237,-144.086123c10.146699,0 18.372102,8.225403 18.372102,18.372102c0,10.146699 -8.225403,18.372102 -18.372102,18.372102c-10.146699,0 -18.372102,-8.225403 -18.372102,-18.372102c0,-10.146381 8.225403,-18.372102 18.372102,-18.372102zm28.522938,55.80287l34.996298,55.994077l18.770742,-24.497409l29.791076,44.053022l-136.973921,0l53.415805,-75.549691z"/>
+  </g>
+ </g>
+</svg>

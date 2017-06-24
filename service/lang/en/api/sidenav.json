@@ -1,0 +1,16 @@
+[
+  {
+    "id":"frontendPC",
+    "name":"frontend（PC)",
+    "url":"",
+    "child":[
+      {
+        "id":"clipImage",
+        "name":"clip image",
+        "poster":"/service/static/images/clip-image.svg",
+        "description":"You can keep the pixels to clip image with the plugin by setting size that expected in the config object",
+        "version":"/service/lang/en/api/frontendPC/clipImage/version.json"
+      }
+    ]
+  }
+]
