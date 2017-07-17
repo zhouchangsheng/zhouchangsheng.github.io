@@ -1,10 +1,10 @@
 {
-  "latestVersion":"1.0.5",
+  "latestVersion":"1.0.7",
   "version":[
     {
-      "id":"1.0.5",
-      "date":"2017-06-12",
-      "url":"/service/lang/zh-TR/api/frontendPC/clipImage/1.0.5.md"
+      "id":"1.0.7",
+      "date":"2017-07-17",
+      "url":"/service/lang/zh-TR/api/frontendPC/clipImage/1.0.7.md"
     }
   ]
 }
