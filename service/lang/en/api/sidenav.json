@@ -12,5 +12,18 @@
         "version":"/service/lang/en/api/frontendPC/clipImage/version.json"
       }
     ]
+  },{
+    "id":"database",
+    "name":"database",
+    "url":"",
+    "child":[
+      {
+        "id":"sqlcipher",
+        "name":"SQLCipher",
+        "poster":"/service/static/images/sqlcipher.svg",
+        "description":"SQLCipher a sqlite3 with encryption based on openssl and encrypt the entire database file",
+        "version":"/service/lang/en/api/database/sqlcipher/version.json"
+      }
+    ]
   }
 ]

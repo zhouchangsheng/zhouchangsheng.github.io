@@ -12,5 +12,18 @@
         "version":"/service/lang/zh-TR/api/frontendPC/clipImage/version.json"
       }
     ]
+  },{
+    "id":"database",
+    "name":"數據庫",
+    "url":"",
+    "child":[
+      {
+        "id":"sqlcipher",
+        "name":"SQLCipher",
+        "poster":"/service/static/images/sqlcipher.svg",
+        "description":"SQLCipher 是壹個基於openssl加密庫，可對整個數據庫加密的sqlite3。",
+        "version":"/service/lang/zh-TR/api/database/sqlcipher/version.json"
+      }
+    ]
   }
 ]

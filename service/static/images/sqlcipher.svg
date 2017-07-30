@@ -1,0 +1,28 @@
+<svg width="520" height="350" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#e3e4e3" id="canvas_background" height="352" width="522" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(1.1274159178340297,0,0,0.6774369153145948,-82.50460791339403,180.20540390284634) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="27.53247" x="255.557394" stroke-width="0" fill="#505150">openssl</text>
+  <defs>
+   <style type="text/css"/>
+  </defs>
+  <text stroke="#000" transform="matrix(1.799185970583892,0,0,1.799185970583892,-259.6592911650452,-120.38329854710378) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="113.11225" x="227.505732" stroke-width="0" fill="#505150">SQLCipher</text>
+  <text stroke="#000" transform="matrix(1.1274159178340297,0,0,0.6774369153145948,-82.50460791339403,180.20540390284634) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_10" y="110.411426" x="264.427235" stroke-width="0" fill="#505150">sqlite3</text>
+  <defs>
+   <style type="text/css"/>
+  </defs>
+  <g stroke="null" id="svg_17">
+   <path stroke="null" id="svg_14" fill="#505150" d="m252.999991,102.671764c-53.37882,0 -96.646048,13.524406 -96.646048,30.20189l0,24.161512c0,16.677484 43.267227,30.20189 96.646048,30.20189s96.646048,-13.524406 96.646048,-30.20189l0,-24.161512c0,-16.677484 -43.267227,-30.20189 -96.646048,-30.20189z"/>
+   <path stroke="null" id="svg_15" fill="#505150" d="m252.999991,205.35819c-53.37882,0 -96.646048,-13.524406 -96.646048,-30.20189l0,36.242268c0,16.677484 43.267227,30.20189 96.646048,30.20189s96.646048,-13.524406 96.646048,-30.20189l0,-36.242268c0,16.677484 -43.267227,30.20189 -96.646048,30.20189z"/>
+   <path stroke="null" id="svg_16" fill="#505150" d="m252.999991,259.721592c-53.37882,0 -96.646048,-13.524406 -96.646048,-30.20189l0,36.242268c0,16.677484 43.267227,30.20189 96.646048,30.20189s96.646048,-13.524406 96.646048,-30.20189l0,-36.242268c0,16.677484 -43.267227,30.20189 -96.646048,30.20189z"/>
+  </g>
+ </g>
+</svg>
