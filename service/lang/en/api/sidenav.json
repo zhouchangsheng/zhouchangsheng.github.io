@@ -1,12 +1,12 @@
 [
   {
     "id":"frontendPC",
-    "name":"frontend（PC)",
+    "name":"FrontEnd（PC)",
     "url":"",
     "child":[
       {
         "id":"clipImage",
-        "name":"clip image",
+        "name":"ClipImage",
         "poster":"/service/static/images/clip-image.svg",
         "description":"You can keep the pixels to clip image with the plugin by setting size that expected in the config object",
         "version":"/service/lang/en/api/frontendPC/clipImage/version.json"
@@ -14,14 +14,14 @@
     ]
   },{
     "id":"database",
-    "name":"database",
+    "name":"DataBase",
     "url":"",
     "child":[
       {
         "id":"sqlcipher",
         "name":"SQLCipher",
         "poster":"/service/static/images/sqlcipher.svg",
-        "description":"SQLCipher a sqlite3 with encryption based on openssl and encrypt the entire database file",
+        "description":"SQLCipher is a sqlite3 with encryption based on openssl and encrypt the entire database file",
         "version":"/service/lang/en/api/database/sqlcipher/version.json"
       }
     ]
