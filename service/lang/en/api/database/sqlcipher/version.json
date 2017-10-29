@@ -1,7 +1,11 @@
 {
-  "latestVersion":"1.0.1",
+  "latestVersion":"1.1.1",
   "version":[
     {
+      "id":"1.1.1",
+      "date":"2017-10-29",
+      "url":"/service/lang/en/api/database/sqlcipher/1.1.1.md"
+    },{
       "id":"1.0.1",
       "date":"2017-07-30",
       "url":"/service/lang/en/api/database/sqlcipher/1.0.1.md"
